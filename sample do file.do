@@ -1,3 +1,5 @@
+//test1
+
 use "/Users/linnansol/Downloads/Data-Finished-本科计量/grilic.dta
 rename s sch
 describe
